@@ -1,0 +1,304 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 7254560497,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User should open the browser",
+            "match": {
+              "location": "AmazonStepDefe.user_should_open_the_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 56058292300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User should enter the url",
+            "match": {
+              "location": "AmazonStepDefe.user_should_enter_the_url()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "line": 11,
+        "name": "",
+        "description": "",
+        "id": "user-should-check-the-best-seller-options;",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5958743221,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "User should click Hot new Releases text",
+            "match": {
+              "location": "AmazonStepDefe.user_should_click_Hot_new_Releases_text()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 266935613,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "User should display the books",
+            "match": {
+              "location": "AmazonStepDefe.user_should_display_the_books()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@sanity"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5696547402,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User should open the browser",
+            "match": {
+              "location": "AmazonStepDefe.user_should_open_the_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 56128896382,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User should enter the url",
+            "match": {
+              "location": "AmazonStepDefe.user_should_enter_the_url()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "line": 15,
+        "name": "",
+        "description": "",
+        "id": "user-should-check-the-best-seller-options;",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3816231803,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "User should click Movers and Shakers text",
+            "match": {
+              "location": "AmazonStepDefe.user_should_click_Movers_and_Shakers_text()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 131338757,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "User should display the book",
+            "match": {
+              "location": "AmazonStepDefe.user_should_display_the_book()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@regression"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 3267861093,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User should open the browser",
+            "match": {
+              "location": "AmazonStepDefe.user_should_open_the_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 45090180547,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User should enter the url",
+            "match": {
+              "location": "AmazonStepDefe.user_should_enter_the_url()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "line": 19,
+        "name": "",
+        "description": "",
+        "id": "user-should-check-the-best-seller-options;",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7046700832,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "User should click Most wished for text",
+            "match": {
+              "location": "AmazonStepDefe.user_should_click_Most_wished_for_text()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1058863198,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "User should display the list of books",
+            "match": {
+              "location": "AmazonStepDefe.user_should_display_the_list_of_books()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@sanity"
+          },
+          {
+            "name": "@regression"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 3248280615,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User should open the browser",
+            "match": {
+              "location": "AmazonStepDefe.user_should_open_the_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 32852903107,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User should enter the url",
+            "match": {
+              "location": "AmazonStepDefe.user_should_enter_the_url()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "line": 23,
+        "name": "",
+        "description": "",
+        "id": "user-should-check-the-best-seller-options;",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7208625027,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "User should click mosted gifted text",
+            "match": {
+              "location": "AmazonStepDefe.user_should_click_mosted_gifted_text()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1250775173,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "User shounld display the list of books",
+            "match": {
+              "location": "AmazonStepDefe.user_shounld_display_the_list_of_books()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@sanity"
+          }
+        ]
+      }
+    ],
+    "name": "User should check the Best seller options",
+    "description": "",
+    "id": "user-should-check-the-best-seller-options",
+    "keyword": "Feature",
+    "uri": "src/test/resources/folder/amazo.feature",
+    "tags": []
+  }
+]
